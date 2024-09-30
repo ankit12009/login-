@@ -84,7 +84,7 @@ input {
             </div>
             <input type="submit" value="Sign Up" name="S1" id="s1"> 
         </form>
-        <p class="message">Already have an account? <a href="http://localhost/signup-signin/log_in_page.php">Sign In</a></p>
+        <p class="message">Already have an account? <a href="http://localhost/login-/sign_up_page.php">Sign In</a></p>
     </div>
 </body>
 </html> 
